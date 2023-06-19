@@ -2,7 +2,7 @@ torch==1.13.0
 opencv-python==4.5.5.64
 Pillow==9.5.0
 openai-whisper==20230314
-gradio==3.28.1
+gradio==3.34.0
 transformers==4.28.0
 diffusers==0.15.1
 controlnet_aux
